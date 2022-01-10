@@ -24,4 +24,4 @@ Users should be able to:
 ### Links
 
 - Solution URL: [code](https://github.com/ikinoti/social-proof-section)
-- Live Site URL: [live](https://your-live-site-url.com)
+- Live Site URL: [live](https://ikinoti.github.io/social-proof-section/)
