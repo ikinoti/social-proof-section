@@ -24,4 +24,5 @@ Users should be able to:
 ### Links
 
 - Solution URL: [code](https://github.com/ikinoti/social-proof-section)
+- Codepen Solution URL: [code](https://codepen.io/iinoti/pen/gOGqgLZ?editors=1100) 
 - Live Site URL: [live](https://ikinoti.github.io/social-proof-section/)
